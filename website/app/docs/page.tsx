@@ -76,7 +76,7 @@ export default function DocsPage() {
             </h2>
             <div className="p-4 rounded-xl bg-[#0B1220] border border-slate-800 font-mono text-xs text-slate-300 space-y-2">
               <div className="text-slate-500"># Clone repository</div>
-              <div>git clone https://github.com/harshit-911/ShieldSight.ai.git</div>
+              <div>git clone https://github.com/HarshitFreq/ShieldSight.ai.git</div>
               <div className="text-slate-500 pt-2"># Install dependencies & run tests</div>
               <div>npm install && npm test</div>
               <div className="text-slate-500 pt-2"># Build production distribution package</div>

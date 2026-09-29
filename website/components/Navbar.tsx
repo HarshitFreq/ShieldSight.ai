@@ -56,7 +56,7 @@ export function Navbar() {
           {/* Action Buttons */}
           <div className="hidden md:flex items-center gap-3">
             <a
-              href="https://github.com/harshit-911/ShieldSight.ai"
+              href="https://github.com/HarshitFreq/ShieldSight.ai"
               target="_blank"
               rel="noopener noreferrer"
               className="p-1.5 rounded-lg text-slate-400 hover:text-slate-100 transition-colors"

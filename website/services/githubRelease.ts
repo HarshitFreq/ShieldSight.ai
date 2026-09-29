@@ -11,7 +11,7 @@ export interface GitHubReleaseInfo {
   body: string;
 }
 
-const REPO_OWNER = 'harshit-911';
+const REPO_OWNER = 'HarshitFreq';
 const REPO_NAME = 'ShieldSight.ai';
 const REPO_URL = `https://github.com/${REPO_OWNER}/${REPO_NAME}`;
 const DEV_ZIP_URL = `${REPO_URL}/archive/refs/heads/main.zip`;

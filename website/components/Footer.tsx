@@ -55,12 +55,12 @@ export function Footer() {
                 <Link href="/privacy" className="hover:text-slate-200 transition-colors">Privacy Policy</Link>
               </li>
               <li>
-                <a href="https://github.com/harshit-911/ShieldSight.ai" target="_blank" rel="noopener noreferrer" className="hover:text-slate-200 transition-colors">
+                <a href="https://github.com/HarshitFreq/ShieldSight.ai" target="_blank" rel="noopener noreferrer" className="hover:text-slate-200 transition-colors">
                   GitHub Repository
                 </a>
               </li>
               <li>
-                <a href="https://github.com/harshit-911/ShieldSight.ai/issues/new" target="_blank" rel="noopener noreferrer" className="hover:text-slate-200 transition-colors">
+                <a href="https://github.com/HarshitFreq/ShieldSight.ai/issues/new" target="_blank" rel="noopener noreferrer" className="hover:text-slate-200 transition-colors">
                   Report an Issue
                 </a>
               </li>

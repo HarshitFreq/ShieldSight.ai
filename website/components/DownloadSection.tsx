@@ -34,7 +34,7 @@ export function DownloadSection() {
         {/* Action Link Grid */}
         <div className="flex flex-wrap justify-center gap-6 text-xs text-slate-400 pt-4 border-t border-slate-800/40">
           <a
-            href="https://github.com/harshit-911/ShieldSight.ai"
+            href="https://github.com/HarshitFreq/ShieldSight.ai"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-slate-200 transition-colors flex items-center gap-1.5"
@@ -47,7 +47,7 @@ export function DownloadSection() {
           </Link>
 
           <a
-            href="https://github.com/harshit-911/ShieldSight.ai/issues/new"
+            href="https://github.com/HarshitFreq/ShieldSight.ai/issues/new"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-rose-400 transition-colors flex items-center gap-1.5"

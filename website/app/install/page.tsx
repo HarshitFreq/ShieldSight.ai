@@ -231,7 +231,7 @@ export default function InstallPage() {
 
           <div className="flex items-center gap-3 shrink-0">
             <a
-              href="https://github.com/harshit-911/ShieldSight.ai/issues/new"
+              href="https://github.com/HarshitFreq/ShieldSight.ai/issues/new"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-semibold text-rose-300 flex items-center gap-1.5 transition-colors"
@@ -240,7 +240,7 @@ export default function InstallPage() {
               Report an Issue
             </a>
             <a
-              href="https://github.com/harshit-911/ShieldSight.ai"
+              href="https://github.com/HarshitFreq/ShieldSight.ai"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 rounded-lg bg-slate-900 hover:bg-slate-800 border border-slate-800 text-xs font-semibold text-slate-300 flex items-center gap-1.5 transition-colors"
