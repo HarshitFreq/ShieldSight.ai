@@ -9,12 +9,12 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'ShieldSight AI — Real-Time On-Device AI Content Safety',
+  title: 'ShieldSight AI — Real-Time On-Device AI Content Moderation',
   description:
-    'ShieldSight AI uses on-device multimodal AI to help reduce exposure to explicit images, graphic violence, harmful language, and unsafe online interactions while keeping your browsing private.',
+    'ShieldSight AI uses on-device multimodal AI to moderate explicit images, graphic violence, harmful language, and unsafe interactions across any browser while keeping your data 100% private.',
   keywords: [
     'ShieldSight AI',
-    'Parental Safety Extension',
+    'Content Moderation Extension',
     'On-Device AI Moderation',
     'Explicit Content Protection',
     'Harmful Language Filter',
@@ -23,9 +23,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'ShieldSight AI Team' }],
   openGraph: {
-    title: 'ShieldSight AI — Real-Time On-Device AI Content Safety',
+    title: 'ShieldSight AI — Real-Time On-Device AI Content Moderation',
     description:
-      'On-device multimodal AI browser extension protecting families from explicit images, violent media, and harmful conversations.',
+      'On-device multimodal AI browser extension moderating explicit images, violent media, and harmful conversations across any browser.',
     url: 'https://shieldsight.ai',
     siteName: 'ShieldSight AI',
     locale: 'en_US',
@@ -33,9 +33,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ShieldSight AI — Real-Time On-Device AI Content Safety',
+    title: 'ShieldSight AI — Real-Time On-Device AI Content Moderation',
     description:
-      'On-device multimodal AI browser extension protecting families from explicit images, violent media, and harmful conversations.',
+      'On-device multimodal AI browser extension moderating explicit images, violent media, and harmful conversations across any browser.',
     creator: '@ShieldSightAI',
   },
   robots: {

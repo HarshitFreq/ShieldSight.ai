@@ -28,9 +28,9 @@ export function Hero() {
           transition={{ duration: 0.4, delay: 0.05 }}
           className="text-4xl sm:text-6xl font-bold text-slate-100 tracking-tight leading-[1.1] mb-5"
         >
-          Real-Time On-Device AI Safety.{' '}
+          Real-Time Content Moderation.{' '}
           <span className="text-slate-400 font-normal block sm:inline">
-            Protecting Every Web Experience.
+            100% On-Device & Private.
           </span>
         </motion.h1>
 
