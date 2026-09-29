@@ -17,7 +17,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-xs text-slate-400 font-medium">
-              Protecting Every Click. Protecting Every Family.
+              Real-Time On-Device AI Content Safety & Privacy.
             </p>
             <div className="inline-block px-2.5 py-0.5 rounded-full border border-slate-800 bg-slate-900/60 text-[10px] font-mono text-slate-400">
               Version 1.0.0 Beta

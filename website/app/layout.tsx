@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'ShieldSight AI — Protecting Every Click. Protecting Every Family.',
+  title: 'ShieldSight AI — Real-Time On-Device AI Content Safety',
   description:
     'ShieldSight AI uses on-device multimodal AI to help reduce exposure to explicit images, graphic violence, harmful language, and unsafe online interactions while keeping your browsing private.',
   keywords: [
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: 'ShieldSight AI Team' }],
   openGraph: {
-    title: 'ShieldSight AI — Protecting Every Click. Protecting Every Family.',
+    title: 'ShieldSight AI — Real-Time On-Device AI Content Safety',
     description:
       'On-device multimodal AI browser extension protecting families from explicit images, violent media, and harmful conversations.',
     url: 'https://shieldsight.ai',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ShieldSight AI — Protecting Every Click. Protecting Every Family.',
+    title: 'ShieldSight AI — Real-Time On-Device AI Content Safety',
     description:
       'On-device multimodal AI browser extension protecting families from explicit images, violent media, and harmful conversations.',
     creator: '@ShieldSightAI',
